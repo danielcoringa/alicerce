@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Description of Security
- * @category   PublicAnuncios
+ * Description of Controller Clientes
+ * @category   Clientes
  * @package    Coringa_Controller
- * @copyright  Copyright (c) 2013-2013 CoringaSistemas INC (http://www.coringasistemas.com.br)
+ * @copyright  Copyright (c) 2013-2013 RoDa Sistemas INC (http://www.rodrigodaniel.com.br)
  */
 class Alicerce_ClientesController extends Coringa_Controller_Alicerce_Action {
 
