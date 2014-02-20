@@ -1,4 +1,5 @@
 <?php
+// Comentario Adicionado pelo cElular
 
 class Alicerce_ErrorController extends Coringa_Controller_Alicerce_Action {
 
